@@ -40,103 +40,63 @@
     "image": "/images/shows/ウォーターワールド.jpg"
   },
   {
-    "id": "moppy-lucky-dance",
-    "name": "モッピーのラッキー・ダンス・パーティ",
-    "area": "ユニバーサル・ワンダーランド",
-    "type": "indoor_show",
-    "description": "モッピーと一緒に歌って踊れるダンスパーティ。小さなお子さまが思いっきり楽しめます。",
-    "tags": ["ダンス", "参加型", "子連れ"],
-    "relatedIp": ["sesame"],
-    "image": "/images/shows/モッピーのラッキー・ダンス・パーティ.jpg"
-  },
-  {
-    "id": "power-of-rock",
-    "name": "パワー・オブ・ロック",
-    "area": "ハリウッド・エリア",
-    "type": "street_show",
-    "description": "ハリウッド・エリアで繰り広げられるエネルギッシュなストリートパフォーマンス。",
-    "tags": ["ストリート", "音楽", "ダンス"],
-    "relatedIp": [],
-    "image": "/images/shows/パワーオブロック〜ユー・ロック〜.jpg"
-  },
-  {
-    "id": "melting-pot",
-    "name": "メルティング・ポット",
-    "area": "ニューヨーク・エリア",
-    "type": "street_show",
-    "description": "ニューヨーク・エリアで開催される多国籍なストリートショー。歌とダンスで盛り上がります。",
-    "tags": ["ストリート", "ダンス"],
-    "relatedIp": [],
-    "image": null
-  },
-  {
-    "id": "kuromi-live",
-    "name": "クロミ・ライブ ～世界クロミ化ツアー クリスタル・クリア～",
-    "area": "ニューヨーク・エリア",
-    "type": "street_show",
-    "description": "クロミが主役のストリートライブ。クロミファン必見のパフォーマンスです。",
-    "tags": ["クロミ", "ライブ", "ストリート"],
-    "relatedIp": ["kuromi"],
-    "image": null
-  },
-  {
     "id": "minion-greeting-rock",
-    "name": "ミニオン・グリーティング ～レディ・トゥ・ロック！～",
+    "name": "ミニオン・グリーティング",
     "area": "ミニオン・パーク",
     "type": "street_show",
-    "description": "ミニオンたちがロックな衣装で登場するグリーティングショー。一緒に写真も撮れます。",
+    "description": "ミニオンたちが登場するグリーティングショー。一緒に写真も撮れます。",
     "tags": ["グリーティング", "ミニオン", "写真"],
     "relatedIp": ["minion"],
     "image": null
   },
   {
-    "id": "wonderland-lets-rock",
-    "name": "ユニバーサル・ワンダーランド ～レッツ・ロック・トゥギャザー！～",
-    "area": "ユニバーサル・ワンダーランド",
-    "type": "street_show",
-    "description": "ワンダーランドのキャラクターたちと一緒に歌って踊れるストリートショー。子連れにおすすめ。",
-    "tags": ["ダンス", "子連れ", "参加型"],
-    "relatedIp": ["sesame", "snoopy", "hellokitty"],
+    "id": "conan-4d-live",
+    "name": "名探偵コナン 4-D ライブ・ショー ～星空の宝石（ジュエル）～",
+    "area": "ハリウッド・エリア",
+    "type": "indoor_show",
+    "description": "名探偵コナンの世界に入り込める4Dライブショー。エクスプレス・パス対応。定員750名。",
+    "tags": ["4D", "コナン", "クールジャパン", "期間限定"],
+    "relatedIp": ["conan"],
+    "image": "/images/shows/名探偵コナン４Dライブショー.png"
+  },
+  {
+    "id": "jujutsu-4d",
+    "name": "呪術廻戦・ザ・リアル 4-D ～廻る時計台～",
+    "area": "ハリウッド・エリア",
+    "type": "indoor_show",
+    "description": "呪術廻戦の世界を体感できる4Dシアター。大迫力の演出で領域展開を体験！（〜2026/8/18）",
+    "tags": ["4D", "呪術廻戦", "クールジャパン", "期間限定"],
+    "relatedIp": ["jujutsu"],
     "image": null
   },
   {
-    "id": "frog-choir",
-    "name": "フロッグ・クワイア",
-    "area": "ウィザーディング・ワールド・オブ・ハリー・ポッター",
-    "type": "street_show",
-    "description": "ホグワーツの生徒たちがカエルと一緒に合唱するミニショー。ハリー・ポッターエリアの雰囲気を盛り上げます。",
-    "tags": ["合唱", "ハリー・ポッター", "雰囲気"],
-    "relatedIp": ["harrypotter"],
+    "id": "masquerade",
+    "name": "東野圭吾原作『マスカレード』シリーズ「狙われた仮面舞踏会」",
+    "area": "パーク内特設会場",
+    "type": "indoor_show",
+    "description": "参加型ミステリーショー＋ビュッフェ。東野圭吾の世界に入り込む没入体験。（〜2026/6/30）",
+    "tags": ["ミステリー", "参加型", "クールジャパン", "期間限定"],
+    "relatedIp": [],
     "image": null
   },
   {
-    "id": "triwizard-spirit-rally",
-    "name": "トライウィザード・スピリット・ラリー",
-    "area": "ウィザーディング・ワールド・オブ・ハリー・ポッター",
+    "id": "wicked-celebration",
+    "name": "『ウィキッド 永遠の約束』セレブレーション",
+    "area": "ニューヨーク・エリア",
     "type": "street_show",
-    "description": "三大魔法学校対抗試合にちなんだパフォーマンス。ダームストラングとボーバトンの演技が見られます。",
-    "tags": ["パフォーマンス", "ハリー・ポッター"],
-    "relatedIp": ["harrypotter"],
-    "image": null
+    "description": "映画ウィキッドの世界観を楽しめるグリーティング・展示・フード販売。（〜2026/12/27）",
+    "tags": ["ウィキッド", "グリーティング", "期間限定"],
+    "relatedIp": [],
+    "image": "/images/shows/ウィキッド〜オズの魔女たち〜.jpg"
   },
   {
     "id": "no-limit-parade",
     "name": "NO LIMIT! パレード ～Discover U!!! バージョン～",
     "area": "パーク全体",
     "type": "parade",
-    "description": "マリオやミニオン、ポケモンなど人気キャラクター総出演のパレード。25周年の特別バージョンです。",
+    "description": "マリオやミニオン、ポケモンなど人気キャラクター総出演のパレード。25周年の特別バージョンです。（〜2027/1/11）",
     "tags": ["パレード", "人気", "25周年"],
     "relatedIp": ["mario", "minion", "pokemon", "sing", "kuromi", "snoopy", "sesame", "hellokitty"],
     "image": "/images/shows/NO LIMIT!パレード.jpg"
-  },
-  {
-    "id": "forever-friends",
-    "name": "フォーエバー・フレンズ ～ずっと友だち～",
-    "area": "ユニバーサル・ワンダーランド",
-    "type": "greeting",
-    "description": "セサミストリートやスヌーピーの仲間たちとの特別グリーティングイベント（2026/3/20〜5/10）。",
-    "tags": ["期間限定", "グリーティング", "子連れ"],
-    "relatedIp": ["sesame", "snoopy", "hellokitty"],
-    "image": null
   }
 ]
