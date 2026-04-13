@@ -19,6 +19,13 @@ export default function DetailCard() {
       <>
         <Header />
         <div className="detail-page">
+          {item.image && (
+            <img
+              className="detail-hero-image"
+              src={`${import.meta.env.BASE_URL}${item.image.replace(/^\//, '')}`}
+              alt={item.name}
+            />
+          )}
           {interested && <div className="detail-interested">★ あなたが気になるIPに関連！</div>}
           <h2 className="detail-name">{item.name}</h2>
           <p className="detail-area">{item.area}</p>

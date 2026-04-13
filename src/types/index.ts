@@ -56,6 +56,7 @@ export interface Attraction {
   description: string;
   tags: string[];
   relatedIp: string[];
+  image: string | null;
 }
 
 // 静的データ: レストラン

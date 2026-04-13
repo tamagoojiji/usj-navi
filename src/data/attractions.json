@@ -9,7 +9,8 @@
     "heightRestriction": 107,
     "description": "ARゴーグルをつけてマリオカートの世界を駆け抜けるライド。甲羅を投げて対戦気分が味わえます。",
     "tags": ["AR", "ライド", "人気", "エクスプレスパス対応"],
-    "relatedIp": ["mario"]
+    "relatedIp": ["mario"],
+    "image": "/images/attractions/22.jpg"
   },
   {
     "id": "yoshi-adventure",
@@ -21,7 +22,8 @@
     "heightRestriction": 86,
     "description": "ヨッシーの背中に乗ってニンテンドーワールドを見渡すゆったりライド。小さなお子さまも楽しめます。",
     "tags": ["ゆったり", "子連れ", "ライド"],
-    "relatedIp": ["mario"]
+    "relatedIp": ["mario"],
+    "image": "/images/attractions/21.jpg"
   },
   {
     "id": "power-up-band",
@@ -33,7 +35,8 @@
     "heightRestriction": null,
     "description": "パワーアップバンドを使ってエリア内のミッションに挑戦。ブロックを叩いてコインを集めよう。",
     "tags": ["体験型", "インタラクティブ", "パワーアップバンド"],
-    "relatedIp": ["mario"]
+    "relatedIp": ["mario"],
+    "image": null
   },
   {
     "id": "donkey-kong-crazy-trolley",
@@ -45,7 +48,8 @@
     "heightRestriction": 107,
     "description": "マインカートに乗ってドンキーコングの世界を疾走するトロッコ型コースター。スリルと爽快感が楽しめます。",
     "tags": ["コースター", "ライド", "人気"],
-    "relatedIp": ["donkeykong"]
+    "relatedIp": ["donkeykong"],
+    "image": "/images/attractions/23.jpg"
   },
   {
     "id": "minion-hachamecha-ride",
@@ -57,7 +61,8 @@
     "heightRestriction": 102,
     "description": "巨大スクリーンの映像とともにハチャメチャに振り回されるライド。ミニオンたちと一緒に大暴走！※酔いやすいので注意。",
     "tags": ["シミュレーター", "ライド", "人気", "酔いやすい"],
-    "relatedIp": ["minion"]
+    "relatedIp": ["minion"],
+    "image": "/images/attractions/28.jpg"
   },
   {
     "id": "minion-hachamecha-ice",
@@ -69,7 +74,8 @@
     "heightRestriction": null,
     "description": "ミニオンたちが氷の上でくるくる回るスピニング系ライド。待ち時間も短めでサクッと楽しめます。",
     "tags": ["スピニング", "ライド", "子連れ"],
-    "relatedIp": ["minion"]
+    "relatedIp": ["minion"],
+    "image": "/images/attractions/30.jpg"
   },
   {
     "id": "minion-hachamecha-mission",
@@ -81,7 +87,8 @@
     "heightRestriction": null,
     "description": "2025年7月オープンのシューティング型ライド。光線銃で的を狙ってスコアを競おう。",
     "tags": ["シューティング", "新アトラクション", "インタラクティブ"],
-    "relatedIp": ["minion"]
+    "relatedIp": ["minion"],
+    "image": "/images/attractions/29.jpg"
   },
   {
     "id": "forbidden-journey",
@@ -93,7 +100,8 @@
     "heightRestriction": 122,
     "description": "ホグワーツ城内を箒に乗って飛び回る大迫力のライド。魔法の世界にどっぷり浸れる看板アトラクション。※酔いやすいので注意。",
     "tags": ["ライド", "人気", "大迫力", "エクスプレスパス対応", "酔いやすい"],
-    "relatedIp": ["harrypotter"]
+    "relatedIp": ["harrypotter"],
+    "image": "/images/attractions/17.jpg"
   },
   {
     "id": "hippogriff",
@@ -105,7 +113,8 @@
     "heightRestriction": 92,
     "description": "魔法生物ヒッポグリフの背中に乗って空を飛ぶミニコースター。ホグワーツ城の景色も楽しめます。",
     "tags": ["コースター", "ライド", "子連れ"],
-    "relatedIp": ["harrypotter"]
+    "relatedIp": ["harrypotter"],
+    "image": "/images/attractions/18.jpg"
   },
   {
     "id": "wand-magic",
@@ -117,7 +126,8 @@
     "heightRestriction": null,
     "description": "マジカル・ワンドを使ってホグズミード村で魔法をかける体験。杖を振ると不思議なことが起こります。",
     "tags": ["体験型", "インタラクティブ", "魔法"],
-    "relatedIp": ["harrypotter"]
+    "relatedIp": ["harrypotter"],
+    "image": null
   },
   {
     "id": "hollywood-dream",
@@ -129,7 +139,8 @@
     "heightRestriction": 132,
     "description": "好きな音楽を聴きながらパーク上空を駆け抜ける絶叫コースター。開放感と爽快感が抜群です。",
     "tags": ["絶叫", "コースター", "人気", "エクスプレスパス対応"],
-    "relatedIp": []
+    "relatedIp": [],
+    "image": "/images/attractions/2.jpg"
   },
   {
     "id": "hollywood-dream-backdrop",
@@ -141,7 +152,8 @@
     "heightRestriction": 132,
     "description": "後ろ向きに走る絶叫コースター。前が見えないスリルが通常版をさらに上回ります。",
     "tags": ["絶叫", "コースター", "後ろ向き"],
-    "relatedIp": []
+    "relatedIp": [],
+    "image": "/images/attractions/1.jpg"
   },
   {
     "id": "space-fantasy",
@@ -153,7 +165,8 @@
     "heightRestriction": 122,
     "description": "宇宙空間を回転しながら駆け抜ける室内コースター。季節限定でコラボバージョンになることも。",
     "tags": ["コースター", "室内", "コラボ対象"],
-    "relatedIp": []
+    "relatedIp": [],
+    "image": "/images/attractions/44.jpg"
   },
   {
     "id": "shrek-4d",
@@ -165,7 +178,8 @@
     "heightRestriction": null,
     "description": "3D映像に水や風などの特殊効果が加わった4Dシアター。シュレックの冒険を体感できます。※現在休止中。",
     "tags": ["4D", "シアター", "子連れ", "休止中"],
-    "relatedIp": ["shrek"]
+    "relatedIp": ["shrek"],
+    "image": "/images/attractions/35.jpg"
   },
   {
     "id": "sesame-4d",
@@ -177,7 +191,8 @@
     "heightRestriction": null,
     "description": "セサミストリートの仲間たちが活躍する4Dシアター。小さなお子さまにぴったり。※現在休止中。",
     "tags": ["4D", "シアター", "子連れ", "休止中"],
-    "relatedIp": ["sesame"]
+    "relatedIp": ["sesame"],
+    "image": "/images/attractions/34.jpg"
   },
   {
     "id": "monster-live",
@@ -189,7 +204,8 @@
     "heightRestriction": null,
     "description": "ドラキュラやフランケンたちがロックンロールを披露するライブショー。ノリノリの音楽で盛り上がります。",
     "tags": ["ライブ", "音楽", "ショー"],
-    "relatedIp": []
+    "relatedIp": [],
+    "image": null
   },
   {
     "id": "curious-george",
@@ -201,7 +217,8 @@
     "heightRestriction": null,
     "description": "おさるのジョージと一緒に遊べる参加型シアター。画面のジョージがリアルタイムで反応します。",
     "tags": ["参加型", "子連れ", "シアター"],
-    "relatedIp": []
+    "relatedIp": [],
+    "image": null
   },
   {
     "id": "sing-on-tour",
@@ -213,7 +230,8 @@
     "heightRestriction": null,
     "description": "映画「SING」のキャラクターたちが歌って踊る本格ミュージカルショー。クオリティの高さに感動します。",
     "tags": ["ミュージカル", "ショー", "人気"],
-    "relatedIp": ["sing"]
+    "relatedIp": ["sing"],
+    "image": null
   },
   {
     "id": "flying-dinosaur",
@@ -225,7 +243,8 @@
     "heightRestriction": 132,
     "description": "翼竜プテラノドンに掴まれて空を飛ぶ超絶叫コースター。うつ伏せ姿勢で地面スレスレを滑走します。",
     "tags": ["絶叫", "コースター", "人気", "エクスプレスパス対応"],
-    "relatedIp": ["jurassic"]
+    "relatedIp": ["jurassic"],
+    "image": "/images/attractions/26.jpg"
   },
   {
     "id": "jurassic-park-ride",
@@ -237,7 +256,8 @@
     "heightRestriction": 107,
     "description": "恐竜の世界をボートで進み、最後に25.9mの急流滑降！濡れる覚悟で乗りましょう。",
     "tags": ["ウォーターライド", "濡れる", "ライド"],
-    "relatedIp": ["jurassic"]
+    "relatedIp": ["jurassic"],
+    "image": "/images/attractions/25.jpg"
   },
   {
     "id": "jaws",
@@ -249,7 +269,8 @@
     "heightRestriction": 122,
     "description": "巨大サメが襲いかかるボートツアー。船長の名演技とリアルなサメの迫力にドキドキします。",
     "tags": ["ボート", "ライド", "定番"],
-    "relatedIp": ["jaws"]
+    "relatedIp": ["jaws"],
+    "image": "/images/attractions/19.jpg"
   },
   {
     "id": "waterworld",
@@ -261,7 +282,8 @@
     "heightRestriction": null,
     "description": "水上で繰り広げられる大迫力のスタントショー。爆発や水しぶきの演出は圧巻です。",
     "tags": ["スタント", "ショー", "濡れる", "大迫力"],
-    "relatedIp": []
+    "relatedIp": [],
+    "image": null
   },
   {
     "id": "flying-snoopy",
@@ -273,7 +295,8 @@
     "heightRestriction": null,
     "description": "スヌーピーと一緒に空をくるくる飛ぶライド。自分で高さを操作できて小さなお子さまに大人気。",
     "tags": ["子連れ", "ライド", "ゆったり"],
-    "relatedIp": ["snoopy"]
+    "relatedIp": ["snoopy"],
+    "image": "/images/attractions/5.jpg"
   },
   {
     "id": "snoopy-flying-ace",
@@ -285,7 +308,8 @@
     "heightRestriction": null,
     "description": "スヌーピーと一緒に空を飛ぶ気分が味わえる室内ライド。小さなお子さまにもぴったり。",
     "tags": ["子連れ", "ライド", "室内"],
-    "relatedIp": ["snoopy"]
+    "relatedIp": ["snoopy"],
+    "image": "/images/attractions/6.jpg"
   },
   {
     "id": "elmo-skateboard",
@@ -297,7 +321,8 @@
     "heightRestriction": null,
     "description": "エルモと一緒に大きなスケートボードで左右に揺れるライド。※2026年5月10日で終了。",
     "tags": ["子連れ", "ライド", "5月10日終了"],
-    "relatedIp": ["sesame"]
+    "relatedIp": ["sesame"],
+    "image": "/images/attractions/11.jpg"
   },
   {
     "id": "moppy-balloon",
@@ -309,7 +334,8 @@
     "heightRestriction": null,
     "description": "モッピーの気球に乗ってワンダーランドを空から眺めるライド。ゆったり回転で小さなお子さまも安心。※2026年5月10日で終了。",
     "tags": ["子連れ", "ライド", "ゆったり", "5月10日終了"],
-    "relatedIp": ["sesame"]
+    "relatedIp": ["sesame"],
+    "image": "/images/attractions/12.jpg"
   },
   {
     "id": "bigbird-circus",
@@ -321,7 +347,8 @@
     "heightRestriction": null,
     "description": "ビッグバードのサーカスをテーマにしたメリーゴーラウンド。※2026年5月10日で終了。",
     "tags": ["子連れ", "メリーゴーラウンド", "5月10日終了"],
-    "relatedIp": ["sesame"]
+    "relatedIp": ["sesame"],
+    "image": "/images/attractions/10.jpg"
   },
   {
     "id": "elmo-little-drive",
@@ -333,7 +360,8 @@
     "heightRestriction": null,
     "description": "エルモの車に乗って自分で運転できるライド。小さなお子さま専用で3〜5歳向け。※2026年5月10日で終了。",
     "tags": ["子連れ", "幼児向け", "5月10日終了"],
-    "relatedIp": ["sesame"]
+    "relatedIp": ["sesame"],
+    "image": "/images/attractions/14.jpg"
   },
   {
     "id": "elmo-bubble",
@@ -345,7 +373,8 @@
     "heightRestriction": null,
     "description": "エルモの泡に乗って水の上をぷかぷか進むライド。小さなお子さまも楽しめます。※2026年5月10日で終了。",
     "tags": ["子連れ", "ウォーターライド", "室内", "5月10日終了"],
-    "relatedIp": ["sesame"]
+    "relatedIp": ["sesame"],
+    "image": "/images/attractions/13.jpg"
   },
   {
     "id": "kitty-cupcake",
@@ -357,6 +386,7 @@
     "heightRestriction": null,
     "description": "ハローキティのカップケーキに乗ってくるくる回るティーカップ型ライド。かわいい世界観が魅力。",
     "tags": ["子連れ", "ライド", "ティーカップ"],
-    "relatedIp": ["hellokitty"]
+    "relatedIp": ["hellokitty"],
+    "image": "/images/attractions/8.jpg"
   }
 ]

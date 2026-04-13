@@ -1,7 +1,6 @@
 .facility-card {
   position: relative;
   width: 100%;
-  padding: 16px;
   background: var(--color-bg-card);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
@@ -9,10 +8,41 @@
   text-align: left;
   transition: all 0.2s ease;
   animation: fadeIn 0.3s ease-out both;
+  overflow: hidden;
+}
+
+.facility-card.has-image {
+  display: flex;
+  flex-direction: row;
 }
 
 .facility-card:active {
   transform: scale(0.98);
+}
+
+.facility-image-wrap {
+  width: 100px;
+  min-height: 100px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.facility-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.facility-content {
+  position: relative;
+  padding: 12px 14px;
+  flex: 1;
+  min-width: 0;
+}
+
+.facility-card:not(.has-image) .facility-content {
+  padding: 16px;
 }
 
 .facility-star {
@@ -35,27 +65,32 @@
   background: var(--color-cta);
   padding: 2px 8px;
   border-radius: var(--radius-pill);
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 
 .facility-name {
-  font-size: var(--text-base);
+  font-size: var(--text-sm);
   font-weight: 700;
-  margin-bottom: 4px;
-  padding-right: 80px;
+  margin-bottom: 2px;
+  padding-right: 70px;
+  line-height: var(--leading-heading);
 }
 
 .facility-area {
   font-size: var(--text-xs);
   color: var(--color-primary);
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 
 .facility-desc {
-  font-size: var(--text-sm);
+  font-size: var(--text-xs);
   color: var(--color-text-sub);
   line-height: var(--leading-body);
-  margin-bottom: 8px;
+  margin-bottom: 6px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .facility-tags {

@@ -80,6 +80,7 @@ export default function SubCategory() {
                   isInterested={isInterested(a.relatedIp)}
                   badge={getThrillBadge(a.thrillLevel)}
                   onClick={() => navigate(`/detail/attraction/${a.id}`)}
+                  image={a.image}
                 />
               </div>
             ))}
