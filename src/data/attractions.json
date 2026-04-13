@@ -276,15 +276,15 @@
     "relatedIp": ["snoopy"]
   },
   {
-    "id": "snoopy-great-race",
-    "name": "スヌーピーのグレート・レース",
+    "id": "snoopy-flying-ace",
+    "name": "スヌーピーのフライング・エース・アドベンチャー",
     "area": "ユニバーサル・ワンダーランド",
     "type": "ride",
     "thrillLevel": "low",
     "indoor": true,
     "heightRestriction": null,
-    "description": "スヌーピーと一緒にミニコースターで走る室内ライド。小さなお子さまの「はじめてのコースター」にぴったり。",
-    "tags": ["子連れ", "コースター", "室内"],
+    "description": "スヌーピーと一緒に空を飛ぶ気分が味わえる室内ライド。小さなお子さまにもぴったり。",
+    "tags": ["子連れ", "ライド", "室内"],
     "relatedIp": ["snoopy"]
   },
   {
