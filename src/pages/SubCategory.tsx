@@ -48,7 +48,9 @@ export default function SubCategory() {
     });
 
   if (categoryId === 'attraction') {
-    const attractions = sortByInterest(attractionsData as Attraction[]);
+    const attractions = sortByInterest(
+      (attractionsData as Attraction[]).filter((a) => !a.tags.includes('休止中'))
+    );
     // Q2でフィルタ: 絶叫苦手なら絶叫系を下位に
     if (answers.q2 === 'no') {
       attractions.sort((a, b) => {
