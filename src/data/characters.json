@@ -88,14 +88,5 @@
     "greetingType": "show",
     "description": "クロミ・ライブの主役。ストリートショーやパレードで会えるサンリオの人気キャラクターです。",
     "members": ["クロミ"]
-  },
-  {
-    "id": "paid-greeting",
-    "name": "42nd ストリート・スタジオ（有料グリーティング）",
-    "ip": "",
-    "area": "ニューヨーク・エリア",
-    "greetingType": "paid_greeting",
-    "description": "有料のグリーティング施設。人気キャラクターと確実に写真が撮れる特別な体験です。",
-    "members": []
   }
 ]
