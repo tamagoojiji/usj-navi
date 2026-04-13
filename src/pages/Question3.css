@@ -1,0 +1,61 @@
+.q3-page {
+  padding: var(--content-padding);
+  animation: fadeSlideIn 0.4s ease-out;
+}
+
+.q3-section {
+  margin-bottom: 24px;
+}
+
+.q3-section-title {
+  font-size: var(--text-sm);
+  color: var(--color-primary-dark);
+  font-weight: 700;
+  margin-bottom: 12px;
+  padding-left: 4px;
+  border-left: 3px solid var(--color-primary);
+  padding-left: 8px;
+}
+
+.q3-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.q3-chip {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 14px;
+  background: var(--color-bg-card);
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-pill);
+  font-size: var(--text-sm);
+  color: var(--color-text);
+  transition: all 0.2s ease;
+  box-shadow: var(--shadow-card);
+}
+
+.q3-chip:active {
+  transform: scale(0.96);
+}
+
+.q3-chip.selected {
+  border-color: var(--color-primary);
+  background: rgba(74, 144, 217, 0.08);
+}
+
+.q3-chip-icon {
+  font-size: var(--text-md);
+}
+
+.q3-chip-label {
+  font-weight: 500;
+}
+
+.q3-chip-check {
+  font-size: var(--text-xs);
+  font-weight: 700;
+  color: var(--color-primary);
+}

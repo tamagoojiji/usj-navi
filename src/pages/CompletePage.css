@@ -1,0 +1,72 @@
+.complete-page {
+  padding: var(--content-padding);
+  text-align: center;
+  animation: fadeSlideIn 0.4s ease-out;
+}
+
+.complete-icon {
+  width: 64px;
+  height: 64px;
+  margin: 32px auto 16px;
+  background: var(--color-green);
+  color: #fff;
+  font-size: 32px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.complete-title {
+  font-size: var(--text-xxl);
+  color: var(--color-green);
+  margin-bottom: 8px;
+}
+
+.complete-time {
+  font-size: var(--text-xs);
+  color: var(--color-text-light);
+  margin-bottom: 16px;
+}
+
+.complete-message {
+  font-size: var(--text-base);
+  color: var(--color-text-sub);
+  line-height: var(--leading-body);
+  margin-bottom: 32px;
+}
+
+.complete-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding-bottom: 32px;
+}
+
+.complete-btn {
+  width: 100%;
+  padding: 16px;
+  font-size: var(--text-md);
+  font-weight: 700;
+  border-radius: var(--radius-pill);
+  transition: all 0.2s ease;
+}
+
+.complete-btn.primary {
+  background: var(--color-primary);
+  color: #fff;
+  box-shadow: var(--shadow-card);
+}
+
+.complete-btn.secondary {
+  background: var(--color-accent);
+  color: #fff;
+  box-shadow: var(--shadow-card);
+}
+
+.complete-btn.tertiary {
+  background: var(--color-bg-card);
+  color: var(--color-text-sub);
+  border: 2px solid var(--color-border);
+}

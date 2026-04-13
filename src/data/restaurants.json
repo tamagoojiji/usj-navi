@@ -1,0 +1,254 @@
+[
+  {
+    "id": "kinopio-cafe",
+    "name": "キノピオ・カフェ",
+    "area": "スーパー・ニンテンドー・ワールド",
+    "genre": "restaurant",
+    "description": "マリオの世界観を再現したレストラン。キノコ型のハンバーガーやマリオモチーフの料理が楽しめます。",
+    "tags": ["マリオ", "テーマフード", "人気"],
+    "relatedIp": ["mario"]
+  },
+  {
+    "id": "yoshi-snack-island",
+    "name": "ヨッシー・スナック・アイランド",
+    "area": "スーパー・ニンテンドー・ワールド",
+    "genre": "snack",
+    "description": "ヨッシーモチーフのかわいいスナックやドリンクが買えるスタンド。食べ歩きにぴったり。",
+    "tags": ["スナック", "食べ歩き", "マリオ"],
+    "relatedIp": ["mario"]
+  },
+  {
+    "id": "jungle-beat-shake",
+    "name": "ジャングル・ビート・シェイク",
+    "area": "ドンキーコング・カントリー",
+    "genre": "snack",
+    "description": "ドンキーコングエリアのシェイク専門スタンド。バナナ風味のシェイクが名物です。",
+    "tags": ["シェイク", "スナック", "ドンキーコング"],
+    "relatedIp": ["donkeykong"]
+  },
+  {
+    "id": "three-broomsticks",
+    "name": "三本の箒",
+    "area": "ウィザーディング・ワールド・オブ・ハリー・ポッター",
+    "genre": "restaurant",
+    "description": "ホグズミード村の酒場を再現したレストラン。イギリス風料理とバタービールが名物です。",
+    "tags": ["ハリー・ポッター", "バタービール", "人気"],
+    "relatedIp": ["harrypotter"]
+  },
+  {
+    "id": "hogs-head-pub",
+    "name": "ホッグズ・ヘッド・パブ",
+    "area": "ウィザーディング・ワールド・オブ・ハリー・ポッター",
+    "genre": "cafe",
+    "description": "三本の箒に併設されたパブ。バタービールやパンプキンジュースをカウンターで注文できます。",
+    "tags": ["ドリンク", "バタービール", "ハリー・ポッター"],
+    "relatedIp": ["harrypotter"]
+  },
+  {
+    "id": "magic-neep-cart",
+    "name": "マジック・ニープ・カート",
+    "area": "ウィザーディング・ワールド・オブ・ハリー・ポッター",
+    "genre": "foodcart",
+    "description": "ホグズミード村のフードカート。七面鳥の足などボリュームあるスナックが買えます。",
+    "tags": ["フードカート", "食べ歩き", "ハリー・ポッター"],
+    "relatedIp": ["harrypotter"]
+  },
+  {
+    "id": "beverly-hills-boulangerie",
+    "name": "ビバリーヒルズ・ブランジェリー",
+    "area": "ハリウッド・エリア",
+    "genre": "cafe",
+    "description": "パンやケーキが充実したベーカリーカフェ。朝食やちょっとした休憩におすすめ。",
+    "tags": ["ベーカリー", "カフェ", "朝食"],
+    "relatedIp": []
+  },
+  {
+    "id": "studio-stars-restaurant",
+    "name": "スタジオ・スターズ・レストラン",
+    "area": "ハリウッド・エリア",
+    "genre": "restaurant",
+    "description": "季節限定メニューやコラボフードが登場するレストラン。イベント時期は特別メニューが楽しめます。",
+    "tags": ["レストラン", "コラボメニュー", "季節限定"],
+    "relatedIp": []
+  },
+  {
+    "id": "mels-drive-in",
+    "name": "メルズ・ドライブイン",
+    "area": "ハリウッド・エリア",
+    "genre": "restaurant",
+    "description": "アメリカンな雰囲気のダイナー。ハンバーガーやフライドチキンなどガッツリ系メニューが揃います。",
+    "tags": ["ハンバーガー", "アメリカン", "レストラン"],
+    "relatedIp": []
+  },
+  {
+    "id": "saido",
+    "name": "SAIDO（彩道）",
+    "area": "ニューヨーク・エリア",
+    "genre": "restaurant",
+    "description": "和食メインのレストラン。お子さまメニューも充実しており、洋食が苦手な方にも安心。",
+    "tags": ["和食", "子連れ", "レストラン"],
+    "relatedIp": []
+  },
+  {
+    "id": "parkside-grille",
+    "name": "パークサイド・グリル",
+    "area": "ニューヨーク・エリア",
+    "genre": "restaurant",
+    "description": "ステーキやグリル料理が自慢の本格レストラン。落ち着いた雰囲気でゆっくり食事したい方に。",
+    "tags": ["グリル", "ステーキ", "落ち着いた"],
+    "relatedIp": []
+  },
+  {
+    "id": "louis-ny-pizza",
+    "name": "ルイズ N.Y. ピザパーラー",
+    "area": "ニューヨーク・エリア",
+    "genre": "restaurant",
+    "description": "大きなピザをカットして提供するNYスタイルのピザ店。手軽にサッと食べたい時に便利。",
+    "tags": ["ピザ", "手軽", "レストラン"],
+    "relatedIp": []
+  },
+  {
+    "id": "dragons-pearl",
+    "name": "ザ・ドラゴンズ・パール",
+    "area": "サンフランシスコ・エリア",
+    "genre": "restaurant",
+    "description": "中華料理が楽しめるレストラン。麻婆豆腐や炒飯など、子どもにも馴染みやすいメニューが揃います。",
+    "tags": ["中華", "レストラン"],
+    "relatedIp": []
+  },
+  {
+    "id": "happiness-cafe",
+    "name": "ハピネス・カフェ",
+    "area": "サンフランシスコ・エリア",
+    "genre": "cafe",
+    "description": "カレーやハンバーグなど定番メニューが揃うカフェ。席数が多く、混雑時の穴場になることも。",
+    "tags": ["カフェ", "カレー", "穴場"],
+    "relatedIp": []
+  },
+  {
+    "id": "wharf-cafe",
+    "name": "ワーフカフェ",
+    "area": "サンフランシスコ・エリア",
+    "genre": "cafe",
+    "description": "たこ焼きやフライドチキンなど軽食が充実したカフェ。ちょっとした休憩にちょうどいい。",
+    "tags": ["軽食", "カフェ", "たこ焼き"],
+    "relatedIp": []
+  },
+  {
+    "id": "discovery-restaurant",
+    "name": "ディスカバリー・レストラン",
+    "area": "ジュラシック・パーク",
+    "genre": "restaurant",
+    "description": "ジュラシック・パークの研究施設をイメージしたレストラン。ハンバーグやチキンなど洋食メニューが中心。",
+    "tags": ["洋食", "レストラン", "恐竜"],
+    "relatedIp": ["jurassic"]
+  },
+  {
+    "id": "lost-world-restaurant",
+    "name": "ロストワールド・レストラン",
+    "area": "ジュラシック・パーク",
+    "genre": "restaurant",
+    "description": "ジュラシック・パーク内のレストラン。ローストチキンやスペアリブなどボリューム満点のメニュー。",
+    "tags": ["肉料理", "レストラン", "ボリューム"],
+    "relatedIp": ["jurassic"]
+  },
+  {
+    "id": "fossil-fuels",
+    "name": "フォッシル・フュエルズ",
+    "area": "ジュラシック・パーク",
+    "genre": "snack",
+    "description": "ジュラシック・パーク内のスナックスタンド。ドリンクや軽食でサッと休憩できます。",
+    "tags": ["スナック", "ドリンク", "軽食"],
+    "relatedIp": ["jurassic"]
+  },
+  {
+    "id": "amity-landing-restaurant",
+    "name": "アミティ・ランディング・レストラン",
+    "area": "アミティ・ビレッジ",
+    "genre": "restaurant",
+    "description": "港町をイメージしたレストラン。シーフードピザやフライドチキンなどカジュアルなメニューが揃います。",
+    "tags": ["シーフード", "レストラン", "カジュアル"],
+    "relatedIp": ["jaws"]
+  },
+  {
+    "id": "boardwalk-snack",
+    "name": "ボードウォーク・スナック",
+    "area": "アミティ・ビレッジ",
+    "genre": "snack",
+    "description": "アミティ・ビレッジのスナックスタンド。チュリトスやドリンクなど手軽なおやつが買えます。",
+    "tags": ["スナック", "食べ歩き"],
+    "relatedIp": ["jaws"]
+  },
+  {
+    "id": "amity-ice-cream",
+    "name": "アミティ・アイスクリーム",
+    "area": "アミティ・ビレッジ",
+    "genre": "snack",
+    "description": "アイスクリーム専門のスナックスタンド。暑い日の休憩にぴったり。",
+    "tags": ["アイスクリーム", "スナック", "デザート"],
+    "relatedIp": ["jaws"]
+  },
+  {
+    "id": "delicious-me-cookie-kitchen",
+    "name": "デリシャス・ミー！ ザ・クッキー・キッチン",
+    "area": "ミニオン・パーク",
+    "genre": "cafe",
+    "description": "ミニオンモチーフのクッキーサンドやスイーツが人気のカフェ。お土産にもぴったり。",
+    "tags": ["スイーツ", "ミニオン", "お土産"],
+    "relatedIp": ["minion"]
+  },
+  {
+    "id": "poppin-cookies",
+    "name": "ポッピン・クッキーズ",
+    "area": "ミニオン・パーク",
+    "genre": "snack",
+    "description": "ミニオンの形をしたクッキーやスナックが買える専門スタンド。食べ歩きにおすすめ。",
+    "tags": ["クッキー", "食べ歩き", "ミニオン"],
+    "relatedIp": ["minion"]
+  },
+  {
+    "id": "snoopy-backlot-cafe",
+    "name": "スヌーピー・バックロット・カフェ",
+    "area": "ユニバーサル・ワンダーランド",
+    "genre": "cafe",
+    "description": "スヌーピーの世界観のカフェ。お子さまメニューが充実しており、子連れファミリーに人気。",
+    "tags": ["子連れ", "カフェ", "キッズメニュー"],
+    "relatedIp": ["snoopy"]
+  },
+  {
+    "id": "kitty-corner-cafe",
+    "name": "ハローキティのコーナーカフェ",
+    "area": "ユニバーサル・ワンダーランド",
+    "genre": "cafe",
+    "description": "ハローキティの世界観がかわいいカフェ。リボン型のフードやデザートが楽しめます。",
+    "tags": ["かわいい", "カフェ", "デザート"],
+    "relatedIp": ["hellokitty"]
+  },
+  {
+    "id": "popcorn-cart",
+    "name": "ポップコーンカート",
+    "area": "パーク各所",
+    "genre": "foodcart",
+    "description": "パーク内各所にあるポップコーン販売カート。キャラクターデザインのバケツが人気。",
+    "tags": ["ポップコーン", "食べ歩き", "バケツ"],
+    "relatedIp": []
+  },
+  {
+    "id": "churros-cart",
+    "name": "チュリトスカート",
+    "area": "パーク各所",
+    "genre": "foodcart",
+    "description": "パーク内各所で買えるチュリトス。季節限定フレーバーが登場することも。",
+    "tags": ["チュリトス", "食べ歩き", "季節限定"],
+    "relatedIp": []
+  },
+  {
+    "id": "turkey-leg-cart",
+    "name": "ターキーレッグカート",
+    "area": "パーク各所",
+    "genre": "foodcart",
+    "description": "大きなターキーレッグが名物のフードカート。ボリューム満点で食べごたえ抜群。",
+    "tags": ["ターキーレッグ", "食べ歩き", "ボリューム"],
+    "relatedIp": []
+  }
+]

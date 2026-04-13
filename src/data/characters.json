@@ -1,0 +1,218 @@
+[
+  {
+    "id": "mario",
+    "name": "マリオ",
+    "ip": "mario",
+    "area": "スーパー・ニンテンドー・ワールド",
+    "greetingType": "photo_opportunity",
+    "description": "スーパー・ニンテンドー・ワールドで会えるマリオ。決まった場所でフォトオポチュニティとして写真が撮れます。"
+  },
+  {
+    "id": "luigi",
+    "name": "ルイージ",
+    "ip": "mario",
+    "area": "スーパー・ニンテンドー・ワールド",
+    "greetingType": "photo_opportunity",
+    "description": "マリオの弟ルイージにも会える！フォトオポチュニティで一緒に写真を撮りましょう。"
+  },
+  {
+    "id": "peach",
+    "name": "ピーチ姫",
+    "ip": "mario",
+    "area": "スーパー・ニンテンドー・ワールド",
+    "greetingType": "photo_opportunity",
+    "description": "ピーチ姫とのフォトオポチュニティ。ドレス姿のピーチ姫と記念撮影ができます。"
+  },
+  {
+    "id": "kinopio",
+    "name": "キノピオ",
+    "ip": "mario",
+    "area": "スーパー・ニンテンドー・ワールド",
+    "greetingType": "free_greeting",
+    "description": "エリア内を歩いているキノピオに会えることも。フリーグリーティングなので見つけたらチャンス！"
+  },
+  {
+    "id": "donkey-kong",
+    "name": "ドンキーコング",
+    "ip": "donkeykong",
+    "area": "ドンキーコング・カントリー",
+    "greetingType": "photo_opportunity",
+    "description": "ドンキーコング・カントリーで会える大きなドンキーコング。迫力のフォトオポチュニティです。"
+  },
+  {
+    "id": "bob",
+    "name": "ボブ",
+    "ip": "minion",
+    "area": "ミニオン・パーク",
+    "greetingType": "free_greeting",
+    "description": "クマのティムを抱えたミニオンのボブ。ミニオン・パークでフリーグリーティングしています。"
+  },
+  {
+    "id": "kevin",
+    "name": "ケビン",
+    "ip": "minion",
+    "area": "ミニオン・パーク",
+    "greetingType": "free_greeting",
+    "description": "背が高いリーダー格のミニオン。ミニオン・パークで会えます。"
+  },
+  {
+    "id": "stuart",
+    "name": "スチュアート",
+    "ip": "minion",
+    "area": "ミニオン・パーク",
+    "greetingType": "free_greeting",
+    "description": "一つ目のおちゃめなミニオン。ミニオン・パークでグリーティングしています。"
+  },
+  {
+    "id": "carl",
+    "name": "カール",
+    "ip": "minion",
+    "area": "ミニオン・パーク",
+    "greetingType": "free_greeting",
+    "description": "お調子者のミニオン、カール。ミニオン・パークで会えます。"
+  },
+  {
+    "id": "jerry",
+    "name": "ジェリー",
+    "ip": "minion",
+    "area": "ミニオン・パーク",
+    "greetingType": "free_greeting",
+    "description": "小柄で二つ目のミニオン。ミニオン・パークでグリーティングしています。"
+  },
+  {
+    "id": "snoopy",
+    "name": "スヌーピー",
+    "ip": "snoopy",
+    "area": "ユニバーサル・ワンダーランド",
+    "greetingType": "free_greeting",
+    "description": "ワンダーランドで会えるスヌーピー。子どもたちに大人気のグリーティングキャラクターです。"
+  },
+  {
+    "id": "charlie-brown",
+    "name": "チャーリー・ブラウン",
+    "ip": "snoopy",
+    "area": "ユニバーサル・ワンダーランド",
+    "greetingType": "free_greeting",
+    "description": "スヌーピーの飼い主チャーリー・ブラウン。ワンダーランドでスヌーピーと一緒にいることも。"
+  },
+  {
+    "id": "hello-kitty",
+    "name": "ハローキティ",
+    "ip": "hellokitty",
+    "area": "ユニバーサル・ワンダーランド",
+    "greetingType": "free_greeting",
+    "description": "ワンダーランドで会えるハローキティ。リボンが目印のかわいいグリーティングです。"
+  },
+  {
+    "id": "dear-daniel",
+    "name": "ディアダニエル",
+    "ip": "hellokitty",
+    "area": "ユニバーサル・ワンダーランド",
+    "greetingType": "free_greeting",
+    "description": "ハローキティのボーイフレンド、ディアダニエル。ワンダーランドでキティと一緒に会えることも。"
+  },
+  {
+    "id": "elmo",
+    "name": "エルモ",
+    "ip": "sesame",
+    "area": "ユニバーサル・ワンダーランド",
+    "greetingType": "free_greeting",
+    "description": "赤いもふもふボディが目印のエルモ。ワンダーランドで元気にグリーティングしています。"
+  },
+  {
+    "id": "cookie-monster",
+    "name": "クッキーモンスター",
+    "ip": "sesame",
+    "area": "ユニバーサル・ワンダーランド",
+    "greetingType": "free_greeting",
+    "description": "クッキー大好きな青いモンスター。ワンダーランドで会えます。"
+  },
+  {
+    "id": "moppy",
+    "name": "モッピー",
+    "ip": "sesame",
+    "area": "ユニバーサル・ワンダーランド",
+    "greetingType": "free_greeting",
+    "description": "USJオリジナルのセサミストリートキャラクター。ピンク色のかわいい姿が人気です。"
+  },
+  {
+    "id": "niffler",
+    "name": "ニフラー",
+    "ip": "harrypotter",
+    "area": "ウィザーディング・ワールド・オブ・ハリー・ポッター",
+    "greetingType": "free_greeting",
+    "description": "光るものが大好きな魔法生物ニフラー。ハリー・ポッターエリアで会えます。"
+  },
+  {
+    "id": "baby-dragon",
+    "name": "ベビードラゴン",
+    "ip": "harrypotter",
+    "area": "ウィザーディング・ワールド・オブ・ハリー・ポッター",
+    "greetingType": "free_greeting",
+    "description": "ハリー・ポッターエリアで会える小さなドラゴン。愛らしい姿が人気です。"
+  },
+  {
+    "id": "pygmy-puff",
+    "name": "ピグミーパフ",
+    "ip": "harrypotter",
+    "area": "ウィザーディング・ワールド・オブ・ハリー・ポッター",
+    "greetingType": "free_greeting",
+    "description": "ふわふわでまんまるな魔法生物ピグミーパフ。ハリー・ポッターエリアで会えます。"
+  },
+  {
+    "id": "woody-woodpecker",
+    "name": "ウッディ・ウッドペッカー",
+    "ip": "",
+    "area": "ハリウッド・エリア",
+    "greetingType": "free_greeting",
+    "description": "USJのマスコット的存在。エントランス付近やハリウッド・エリアで会えます。"
+  },
+  {
+    "id": "shrek-character",
+    "name": "シュレック",
+    "ip": "shrek",
+    "area": "ハリウッド・エリア",
+    "greetingType": "free_greeting",
+    "description": "大きな緑色のシュレック。エントランスやハリウッド・エリアでグリーティングしています。"
+  },
+  {
+    "id": "fiona",
+    "name": "フィオナ姫",
+    "ip": "shrek",
+    "area": "ハリウッド・エリア",
+    "greetingType": "free_greeting",
+    "description": "シュレックのお嫁さん、フィオナ姫。シュレックと一緒に会えることもあります。"
+  },
+  {
+    "id": "curious-george-character",
+    "name": "おさるのジョージ",
+    "ip": "",
+    "area": "ハリウッド・エリア",
+    "greetingType": "free_greeting",
+    "description": "好奇心旺盛なおさるのジョージ。エントランスやハリウッド・エリアで会えます。"
+  },
+  {
+    "id": "pikachu",
+    "name": "ピカチュウ",
+    "ip": "pokemon",
+    "area": "パーク全体",
+    "greetingType": "parade",
+    "description": "NO LIMIT! パレードに登場するピカチュウ。パレード中にポケモンたちと一緒に盛り上がれます。"
+  },
+  {
+    "id": "kuromi-character",
+    "name": "クロミ",
+    "ip": "kuromi",
+    "area": "ニューヨーク・エリア",
+    "greetingType": "show",
+    "description": "クロミ・ライブの主役。ストリートショーやパレードで会えるサンリオの人気キャラクターです。"
+  },
+  {
+    "id": "42nd-street-greeting",
+    "name": "42nd ストリート・スタジオ ～グリーティング・ギャラリー～",
+    "ip": "",
+    "area": "ニューヨーク・エリア",
+    "greetingType": "paid_greeting",
+    "description": "有料のグリーティング施設。人気キャラクターと確実に写真が撮れる特別な体験です。"
+  }
+]

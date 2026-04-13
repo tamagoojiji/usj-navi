@@ -1,0 +1,128 @@
+[
+  {
+    "id": "sing-on-tour",
+    "name": "シング・オン・ツアー",
+    "area": "ハリウッド・エリア",
+    "type": "indoor_show",
+    "description": "映画「SING」のキャラクターたちによる本格ミュージカルショー。圧巻の歌声とダンスに感動します。",
+    "tags": ["ミュージカル", "人気", "屋内"],
+    "relatedIp": ["sing"]
+  },
+  {
+    "id": "monster-live-rock",
+    "name": "ユニバーサル・モンスター・ライブ・ロックンロール・ショー",
+    "area": "ハリウッド・エリア",
+    "type": "indoor_show",
+    "description": "ユニバーサル・モンスターたちがロックンロールを披露するライブショー。ノリノリで楽しめます。",
+    "tags": ["ライブ", "音楽", "屋内"],
+    "relatedIp": []
+  },
+  {
+    "id": "curious-george-show",
+    "name": "プレイング・ウィズおさるのジョージ",
+    "area": "ハリウッド・エリア",
+    "type": "indoor_show",
+    "description": "画面のジョージがリアルタイムで反応する参加型シアター。小さなお子さまに大人気。",
+    "tags": ["参加型", "子連れ", "屋内"],
+    "relatedIp": []
+  },
+  {
+    "id": "waterworld-show",
+    "name": "ウォーターワールド",
+    "area": "ウォーターワールド",
+    "type": "indoor_show",
+    "description": "水上で繰り広げられる大迫力のスタントショー。爆発や水しぶきの演出は必見です。",
+    "tags": ["スタント", "大迫力", "濡れる"],
+    "relatedIp": []
+  },
+  {
+    "id": "moppy-lucky-dance",
+    "name": "モッピーのラッキー・ダンス・パーティ",
+    "area": "ユニバーサル・ワンダーランド",
+    "type": "indoor_show",
+    "description": "モッピーと一緒に歌って踊れるダンスパーティ。小さなお子さまが思いっきり楽しめます。",
+    "tags": ["ダンス", "参加型", "子連れ"],
+    "relatedIp": ["sesame"]
+  },
+  {
+    "id": "power-of-rock",
+    "name": "パワー・オブ・ロック",
+    "area": "ハリウッド・エリア",
+    "type": "street_show",
+    "description": "ハリウッド・エリアで繰り広げられるエネルギッシュなストリートパフォーマンス。",
+    "tags": ["ストリート", "音楽", "ダンス"],
+    "relatedIp": []
+  },
+  {
+    "id": "melting-pot",
+    "name": "メルティング・ポット",
+    "area": "ニューヨーク・エリア",
+    "type": "street_show",
+    "description": "ニューヨーク・エリアで開催される多国籍なストリートショー。歌とダンスで盛り上がります。",
+    "tags": ["ストリート", "ダンス"],
+    "relatedIp": []
+  },
+  {
+    "id": "kuromi-live",
+    "name": "クロミ・ライブ ～世界クロミ化ツアー クリスタル・クリア～",
+    "area": "ニューヨーク・エリア",
+    "type": "street_show",
+    "description": "クロミが主役のストリートライブ。クロミファン必見のパフォーマンスです。",
+    "tags": ["クロミ", "ライブ", "ストリート"],
+    "relatedIp": ["kuromi"]
+  },
+  {
+    "id": "minion-greeting-rock",
+    "name": "ミニオン・グリーティング ～レディ・トゥ・ロック！～",
+    "area": "ミニオン・パーク",
+    "type": "street_show",
+    "description": "ミニオンたちがロックな衣装で登場するグリーティングショー。一緒に写真も撮れます。",
+    "tags": ["グリーティング", "ミニオン", "写真"],
+    "relatedIp": ["minion"]
+  },
+  {
+    "id": "wonderland-lets-rock",
+    "name": "ユニバーサル・ワンダーランド ～レッツ・ロック・トゥギャザー！～",
+    "area": "ユニバーサル・ワンダーランド",
+    "type": "street_show",
+    "description": "ワンダーランドのキャラクターたちと一緒に歌って踊れるストリートショー。子連れにおすすめ。",
+    "tags": ["ダンス", "子連れ", "参加型"],
+    "relatedIp": ["sesame", "snoopy", "hellokitty"]
+  },
+  {
+    "id": "frog-choir",
+    "name": "フロッグ・クワイア",
+    "area": "ウィザーディング・ワールド・オブ・ハリー・ポッター",
+    "type": "street_show",
+    "description": "ホグワーツの生徒たちがカエルと一緒に合唱するミニショー。ハリー・ポッターエリアの雰囲気を盛り上げます。",
+    "tags": ["合唱", "ハリー・ポッター", "雰囲気"],
+    "relatedIp": ["harrypotter"]
+  },
+  {
+    "id": "triwizard-spirit-rally",
+    "name": "トライウィザード・スピリット・ラリー",
+    "area": "ウィザーディング・ワールド・オブ・ハリー・ポッター",
+    "type": "street_show",
+    "description": "三大魔法学校対抗試合にちなんだパフォーマンス。ダームストラングとボーバトンの演技が見られます。",
+    "tags": ["パフォーマンス", "ハリー・ポッター"],
+    "relatedIp": ["harrypotter"]
+  },
+  {
+    "id": "no-limit-parade",
+    "name": "NO LIMIT! パレード ～Discover U!!! バージョン～",
+    "area": "パーク全体",
+    "type": "parade",
+    "description": "マリオやミニオン、ポケモンなど人気キャラクター総出演のパレード。25周年の特別バージョンです。",
+    "tags": ["パレード", "人気", "25周年"],
+    "relatedIp": ["mario", "minion", "pokemon", "sing", "kuromi", "snoopy", "sesame", "hellokitty"]
+  },
+  {
+    "id": "forever-friends",
+    "name": "フォーエバー・フレンズ ～ずっと友だち～",
+    "area": "ユニバーサル・ワンダーランド",
+    "type": "greeting",
+    "description": "セサミストリートやスヌーピーの仲間たちとの特別グリーティングイベント（2026/3/20〜5/10）。",
+    "tags": ["期間限定", "グリーティング", "子連れ"],
+    "relatedIp": ["sesame", "snoopy", "hellokitty"]
+  }
+]

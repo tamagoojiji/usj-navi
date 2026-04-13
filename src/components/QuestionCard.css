@@ -1,0 +1,124 @@
+.question-card {
+  padding: var(--content-padding);
+  animation: fadeSlideIn 0.4s ease-out;
+}
+
+.question-progress {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.progress-bar {
+  flex: 1;
+  height: 6px;
+  background: var(--color-border);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: var(--color-primary);
+  border-radius: 3px;
+  transition: width 0.3s ease;
+}
+
+.progress-text {
+  font-size: var(--text-xs);
+  color: var(--color-text-light);
+  white-space: nowrap;
+}
+
+.question-title {
+  font-size: var(--text-xl);
+  margin-bottom: 8px;
+  line-height: var(--leading-heading);
+}
+
+.question-subtitle {
+  font-size: var(--text-sm);
+  color: var(--color-text-sub);
+  margin-bottom: 20px;
+}
+
+.question-options {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 32px;
+}
+
+.option-btn {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 16px 20px;
+  background: var(--color-bg-card);
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-md);
+  font-size: var(--text-base);
+  color: var(--color-text);
+  text-align: left;
+  transition: all 0.2s ease;
+  box-shadow: var(--shadow-card);
+}
+
+.option-btn:active {
+  transform: scale(0.98);
+}
+
+.option-btn.selected {
+  border-color: var(--color-primary);
+  background: rgba(74, 144, 217, 0.08);
+}
+
+.option-icon {
+  font-size: var(--text-xl);
+  flex-shrink: 0;
+  width: 32px;
+  text-align: center;
+}
+
+.option-label {
+  flex: 1;
+  font-weight: 500;
+}
+
+.option-check {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  font-size: var(--text-sm);
+  font-weight: 700;
+  color: var(--color-primary);
+  flex-shrink: 0;
+}
+
+.next-btn {
+  width: 100%;
+  padding: 16px;
+  background: var(--color-primary);
+  color: #fff;
+  font-size: var(--text-md);
+  font-weight: 700;
+  border-radius: var(--radius-pill);
+  box-shadow: var(--shadow-card);
+  transition: all 0.2s ease;
+}
+
+.next-btn:disabled {
+  background: var(--color-border);
+  color: var(--color-text-light);
+  box-shadow: none;
+}
+
+.next-btn:not(:disabled):active {
+  transform: scale(0.98);
+  box-shadow: var(--shadow-hover);
+}

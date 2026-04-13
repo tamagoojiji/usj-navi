@@ -1,0 +1,27 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  height: var(--header-height);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-primary);
+  color: #fff;
+  padding: 0 var(--content-padding);
+}
+
+.header-title {
+  font-size: var(--text-md);
+  font-weight: 700;
+}
+
+.header-back {
+  position: absolute;
+  left: var(--content-padding);
+  background: none;
+  color: #fff;
+  font-size: var(--text-sm);
+  font-weight: 500;
+  padding: 4px 0;
+}

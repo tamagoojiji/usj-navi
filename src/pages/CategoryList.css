@@ -1,0 +1,44 @@
+.category-list-page {
+  padding: var(--content-padding);
+  animation: fadeSlideIn 0.4s ease-out;
+}
+
+.category-list-header {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.category-list-title {
+  font-size: var(--text-xl);
+  color: var(--color-primary-dark);
+  margin-bottom: 8px;
+}
+
+.category-list-subtitle {
+  font-size: var(--text-sm);
+  color: var(--color-text-sub);
+}
+
+.category-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.category-submit-btn {
+  width: 100%;
+  margin-top: 24px;
+  margin-bottom: 32px;
+  padding: 16px;
+  background: var(--color-cta);
+  color: #fff;
+  font-size: var(--text-md);
+  font-weight: 700;
+  border-radius: var(--radius-pill);
+  box-shadow: var(--shadow-card);
+  transition: all 0.2s ease;
+}
+
+.category-submit-btn:active {
+  transform: scale(0.98);
+}

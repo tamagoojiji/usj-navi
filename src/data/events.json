@@ -1,0 +1,74 @@
+[
+  {
+    "id": "monsterhunter-wilds",
+    "name": "モンスターハンターワイルズ コラボ",
+    "period": "2025/11/19〜2026/5/17",
+    "description": "モンスターハンターワイルズとのコラボイベント。パーク内で狩猟体験やコラボフードが楽しめます。",
+    "tags": ["コラボ", "モンハン", "期間限定"],
+    "relatedIp": ["monsterhunter"]
+  },
+  {
+    "id": "cool-japan-conan",
+    "name": "ユニバーサル・クールジャパン 2026: 名探偵コナン",
+    "period": "〜2026/6/30",
+    "description": "名探偵コナンの世界に入り込める謎解きやアトラクションが楽しめるクールジャパンイベント。",
+    "tags": ["クールジャパン", "コナン", "謎解き", "期間限定"],
+    "relatedIp": ["conan"]
+  },
+  {
+    "id": "cool-japan-jujutsu",
+    "name": "ユニバーサル・クールジャパン 2026: 呪術廻戦",
+    "period": "〜2026/8/18",
+    "description": "呪術廻戦の世界観を体験できるクールジャパンイベント。迫力の演出が魅力です。",
+    "tags": ["クールジャパン", "呪術廻戦", "期間限定"],
+    "relatedIp": ["jujutsu"]
+  },
+  {
+    "id": "cool-japan-frieren",
+    "name": "ユニバーサル・クールジャパン 2026: 葬送のフリーレン",
+    "period": "2026/5/30〜2027/1/11",
+    "description": "葬送のフリーレンの世界を体験できるクールジャパンイベント。魔法の旅を追体験できます。",
+    "tags": ["クールジャパン", "フリーレン", "期間限定"],
+    "relatedIp": ["frieren"]
+  },
+  {
+    "id": "usj-25th-discover-u",
+    "name": "USJ 25周年 Discover U!!!",
+    "period": "2026/3/4〜2027/3/30",
+    "description": "USJ開業25周年を記念した大型イベント。パーク全体で特別な演出やイベントが展開されます。",
+    "tags": ["25周年", "アニバーサリー"],
+    "relatedIp": []
+  },
+  {
+    "id": "nintendo-world-5th",
+    "name": "スーパー・ニンテンドー・ワールド 5周年",
+    "period": "2026/3/18〜2027/1/11",
+    "description": "スーパー・ニンテンドー・ワールドのオープン5周年記念イベント。特別な装飾やグッズが登場。",
+    "tags": ["5周年", "ニンテンドー", "アニバーサリー"],
+    "relatedIp": ["mario", "donkeykong"]
+  },
+  {
+    "id": "forever-friends-event",
+    "name": "フォーエバー・フレンズ ～ずっと友だち～",
+    "period": "2026/3/20〜2026/5/10",
+    "description": "ワンダーランドのキャラクターたちとの思い出を作る特別グリーティングイベント。セサミストリート一部終了前の特別企画。",
+    "tags": ["グリーティング", "ワンダーランド", "期間限定"],
+    "relatedIp": ["sesame", "snoopy", "hellokitty"]
+  },
+  {
+    "id": "butterbeer-season",
+    "name": "バタービール・シーズン",
+    "period": "2026/4/1〜2026/5/17",
+    "description": "ハリー・ポッターエリアでバタービールの特別バージョンが楽しめる季節限定イベント。",
+    "tags": ["バタービール", "ハリー・ポッター", "季節限定"],
+    "relatedIp": ["harrypotter"]
+  },
+  {
+    "id": "no-limit-parade-event",
+    "name": "NO LIMIT! パレード ～Discover U!!!バージョン～",
+    "period": "2026/3/4〜2027/1/11",
+    "description": "25周年を記念した特別バージョンのパレード。人気キャラクター総出演で盛り上がります。",
+    "tags": ["パレード", "25周年", "人気"],
+    "relatedIp": ["mario", "minion", "pokemon", "sing", "kuromi"]
+  }
+]
