@@ -175,6 +175,7 @@ export default function SubCategory() {
                     c.greetingType === 'free_greeting' ? 'フリーグリーティング' :
                     c.greetingType === 'paid_greeting' ? '有料グリーティング' :
                     c.greetingType === 'parade' ? 'パレード出演' : 'ショー出演',
+                    ...(c.members && c.members.length > 0 ? c.members : []),
                   ]}
                   isInterested={answers.q3.includes(c.ip)}
                 />

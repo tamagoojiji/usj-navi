@@ -98,6 +98,7 @@ export interface Character {
   area: string;
   greetingType: 'photo_opportunity' | 'free_greeting' | 'paid_greeting' | 'parade' | 'show';
   description: string;
+  members: string[];
 }
 
 // カテゴリ
