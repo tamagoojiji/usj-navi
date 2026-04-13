@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/usj-navi/',
+  base: process.env.VITE_BASE || '/usj-navi/',
 })
