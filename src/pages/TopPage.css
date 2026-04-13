@@ -53,6 +53,14 @@
   border: 2px solid var(--color-primary);
 }
 
+.top-btn.secondary.disabled {
+  background: var(--color-bg-section);
+  color: var(--color-text-light);
+  border-color: var(--color-border);
+  box-shadow: none;
+  cursor: not-allowed;
+}
+
 .top-note {
   background: var(--color-bg-section);
   border-radius: var(--radius-md);

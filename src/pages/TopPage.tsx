@@ -30,18 +30,11 @@ export default function TopPage() {
             自分の希望を入力する
           </button>
           <button
-            className="top-btn secondary"
-            onClick={() => navigate('/family-join')}
+            className="top-btn secondary disabled"
+            disabled
           >
-            家族コードを入力する
+            家族コードを入力する（現在調整中）
           </button>
-        </div>
-
-        <div className="top-note">
-          <p>
-            家族や同行者の方は、代表者から受け取った
-            <strong>4桁のコード</strong>を入力してください。
-          </p>
         </div>
       </div>
     </>
