@@ -11,3 +11,4 @@ createRoot(document.getElementById('root')!).render(
     </BrowserRouter>
   </StrictMode>
 );
+// build v3 - show images

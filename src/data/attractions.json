@@ -169,71 +169,6 @@
     "image": "/images/attractions/44.jpg"
   },
   {
-    "id": "shrek-4d",
-    "name": "シュレック 4-D アドベンチャー",
-    "area": "ハリウッド・エリア",
-    "type": "show",
-    "thrillLevel": "low",
-    "indoor": true,
-    "heightRestriction": null,
-    "description": "3D映像に水や風などの特殊効果が加わった4Dシアター。シュレックの冒険を体感できます。※現在休止中。",
-    "tags": ["4D", "シアター", "子連れ", "休止中"],
-    "relatedIp": ["shrek"],
-    "image": "/images/attractions/35.jpg"
-  },
-  {
-    "id": "sesame-4d",
-    "name": "セサミストリート 4-D ムービーマジック",
-    "area": "ハリウッド・エリア",
-    "type": "show",
-    "thrillLevel": "low",
-    "indoor": true,
-    "heightRestriction": null,
-    "description": "セサミストリートの仲間たちが活躍する4Dシアター。小さなお子さまにぴったり。※現在休止中。",
-    "tags": ["4D", "シアター", "子連れ", "休止中"],
-    "relatedIp": ["sesame"],
-    "image": "/images/attractions/34.jpg"
-  },
-  {
-    "id": "monster-live",
-    "name": "ユニバーサル・モンスター・ライブ・ロックンロール・ショー",
-    "area": "ハリウッド・エリア",
-    "type": "show",
-    "thrillLevel": "low",
-    "indoor": true,
-    "heightRestriction": null,
-    "description": "ドラキュラやフランケンたちがロックンロールを披露するライブショー。ノリノリの音楽で盛り上がります。",
-    "tags": ["ライブ", "音楽", "ショー"],
-    "relatedIp": [],
-    "image": null
-  },
-  {
-    "id": "curious-george",
-    "name": "プレイング・ウィズおさるのジョージ",
-    "area": "ハリウッド・エリア",
-    "type": "show",
-    "thrillLevel": "low",
-    "indoor": true,
-    "heightRestriction": null,
-    "description": "おさるのジョージと一緒に遊べる参加型シアター。画面のジョージがリアルタイムで反応します。",
-    "tags": ["参加型", "子連れ", "シアター"],
-    "relatedIp": [],
-    "image": null
-  },
-  {
-    "id": "sing-on-tour",
-    "name": "シング・オン・ツアー",
-    "area": "ハリウッド・エリア",
-    "type": "show",
-    "thrillLevel": "low",
-    "indoor": true,
-    "heightRestriction": null,
-    "description": "映画「SING」のキャラクターたちが歌って踊る本格ミュージカルショー。クオリティの高さに感動します。",
-    "tags": ["ミュージカル", "ショー", "人気"],
-    "relatedIp": ["sing"],
-    "image": null
-  },
-  {
     "id": "flying-dinosaur",
     "name": "ザ・フライング・ダイナソー",
     "area": "ジュラシック・パーク",
@@ -271,19 +206,6 @@
     "tags": ["ボート", "ライド", "定番"],
     "relatedIp": ["jaws"],
     "image": "/images/attractions/19.jpg"
-  },
-  {
-    "id": "waterworld",
-    "name": "ウォーターワールド",
-    "area": "ウォーターワールド",
-    "type": "show",
-    "thrillLevel": "medium",
-    "indoor": false,
-    "heightRestriction": null,
-    "description": "水上で繰り広げられる大迫力のスタントショー。爆発や水しぶきの演出は圧巻です。",
-    "tags": ["スタント", "ショー", "濡れる", "大迫力"],
-    "relatedIp": [],
-    "image": null
   },
   {
     "id": "flying-snoopy",
