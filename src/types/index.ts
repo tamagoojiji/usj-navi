@@ -79,6 +79,7 @@ export interface Show {
   description: string;
   tags: string[];
   relatedIp: string[];
+  image: string | null;
 }
 
 // 静的データ: イベント

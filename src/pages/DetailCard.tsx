@@ -105,6 +105,13 @@ export default function DetailCard() {
       <>
         <Header />
         <div className="detail-page">
+          {item.image && (
+            <img
+              className="detail-hero-image"
+              src={`${import.meta.env.BASE_URL}${item.image.replace(/^\//, '')}`}
+              alt={item.name}
+            />
+          )}
           <h2 className="detail-name">{item.name}</h2>
           <p className="detail-area">{item.area}</p>
           <p className="detail-desc">{item.description}</p>

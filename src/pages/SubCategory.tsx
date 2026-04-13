@@ -143,6 +143,7 @@ export default function SubCategory() {
                   ]}
                   isInterested={isInterested(s.relatedIp)}
                   onClick={() => navigate(`/detail/show/${s.id}`)}
+                  image={s.image}
                 />
               </div>
             ))}

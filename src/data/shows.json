@@ -6,7 +6,8 @@
     "type": "indoor_show",
     "description": "映画「SING」のキャラクターたちによる本格ミュージカルショー。圧巻の歌声とダンスに感動します。",
     "tags": ["ミュージカル", "人気", "屋内"],
-    "relatedIp": ["sing"]
+    "relatedIp": ["sing"],
+    "image": "/images/shows/シング・オン・ツアー.jpg"
   },
   {
     "id": "monster-live-rock",
@@ -15,7 +16,8 @@
     "type": "indoor_show",
     "description": "ユニバーサル・モンスターたちがロックンロールを披露するライブショー。ノリノリで楽しめます。",
     "tags": ["ライブ", "音楽", "屋内"],
-    "relatedIp": []
+    "relatedIp": [],
+    "image": "/images/shows/ユニバーサル・モンスター・ライブ・ロックンロール・ショー.jpg"
   },
   {
     "id": "curious-george-show",
@@ -24,7 +26,8 @@
     "type": "indoor_show",
     "description": "画面のジョージがリアルタイムで反応する参加型シアター。小さなお子さまに大人気。",
     "tags": ["参加型", "子連れ", "屋内"],
-    "relatedIp": []
+    "relatedIp": [],
+    "image": "/images/shows/おさるのジョージ.jpg"
   },
   {
     "id": "waterworld-show",
@@ -33,7 +36,8 @@
     "type": "indoor_show",
     "description": "水上で繰り広げられる大迫力のスタントショー。爆発や水しぶきの演出は必見です。",
     "tags": ["スタント", "大迫力", "濡れる"],
-    "relatedIp": []
+    "relatedIp": [],
+    "image": "/images/shows/ウォーターワールド.jpg"
   },
   {
     "id": "moppy-lucky-dance",
@@ -42,7 +46,8 @@
     "type": "indoor_show",
     "description": "モッピーと一緒に歌って踊れるダンスパーティ。小さなお子さまが思いっきり楽しめます。",
     "tags": ["ダンス", "参加型", "子連れ"],
-    "relatedIp": ["sesame"]
+    "relatedIp": ["sesame"],
+    "image": "/images/shows/モッピーのラッキー・ダンス・パーティ.jpg"
   },
   {
     "id": "power-of-rock",
@@ -51,7 +56,8 @@
     "type": "street_show",
     "description": "ハリウッド・エリアで繰り広げられるエネルギッシュなストリートパフォーマンス。",
     "tags": ["ストリート", "音楽", "ダンス"],
-    "relatedIp": []
+    "relatedIp": [],
+    "image": "/images/shows/パワーオブロック〜ユー・ロック〜.jpg"
   },
   {
     "id": "melting-pot",
@@ -60,7 +66,8 @@
     "type": "street_show",
     "description": "ニューヨーク・エリアで開催される多国籍なストリートショー。歌とダンスで盛り上がります。",
     "tags": ["ストリート", "ダンス"],
-    "relatedIp": []
+    "relatedIp": [],
+    "image": null
   },
   {
     "id": "kuromi-live",
@@ -69,7 +76,8 @@
     "type": "street_show",
     "description": "クロミが主役のストリートライブ。クロミファン必見のパフォーマンスです。",
     "tags": ["クロミ", "ライブ", "ストリート"],
-    "relatedIp": ["kuromi"]
+    "relatedIp": ["kuromi"],
+    "image": null
   },
   {
     "id": "minion-greeting-rock",
@@ -78,7 +86,8 @@
     "type": "street_show",
     "description": "ミニオンたちがロックな衣装で登場するグリーティングショー。一緒に写真も撮れます。",
     "tags": ["グリーティング", "ミニオン", "写真"],
-    "relatedIp": ["minion"]
+    "relatedIp": ["minion"],
+    "image": null
   },
   {
     "id": "wonderland-lets-rock",
@@ -87,7 +96,8 @@
     "type": "street_show",
     "description": "ワンダーランドのキャラクターたちと一緒に歌って踊れるストリートショー。子連れにおすすめ。",
     "tags": ["ダンス", "子連れ", "参加型"],
-    "relatedIp": ["sesame", "snoopy", "hellokitty"]
+    "relatedIp": ["sesame", "snoopy", "hellokitty"],
+    "image": null
   },
   {
     "id": "frog-choir",
@@ -96,7 +106,8 @@
     "type": "street_show",
     "description": "ホグワーツの生徒たちがカエルと一緒に合唱するミニショー。ハリー・ポッターエリアの雰囲気を盛り上げます。",
     "tags": ["合唱", "ハリー・ポッター", "雰囲気"],
-    "relatedIp": ["harrypotter"]
+    "relatedIp": ["harrypotter"],
+    "image": null
   },
   {
     "id": "triwizard-spirit-rally",
@@ -105,7 +116,8 @@
     "type": "street_show",
     "description": "三大魔法学校対抗試合にちなんだパフォーマンス。ダームストラングとボーバトンの演技が見られます。",
     "tags": ["パフォーマンス", "ハリー・ポッター"],
-    "relatedIp": ["harrypotter"]
+    "relatedIp": ["harrypotter"],
+    "image": null
   },
   {
     "id": "no-limit-parade",
@@ -114,7 +126,8 @@
     "type": "parade",
     "description": "マリオやミニオン、ポケモンなど人気キャラクター総出演のパレード。25周年の特別バージョンです。",
     "tags": ["パレード", "人気", "25周年"],
-    "relatedIp": ["mario", "minion", "pokemon", "sing", "kuromi", "snoopy", "sesame", "hellokitty"]
+    "relatedIp": ["mario", "minion", "pokemon", "sing", "kuromi", "snoopy", "sesame", "hellokitty"],
+    "image": "/images/shows/NO LIMIT!パレード.jpg"
   },
   {
     "id": "forever-friends",
@@ -123,6 +136,7 @@
     "type": "greeting",
     "description": "セサミストリートやスヌーピーの仲間たちとの特別グリーティングイベント（2026/3/20〜5/10）。",
     "tags": ["期間限定", "グリーティング", "子連れ"],
-    "relatedIp": ["sesame", "snoopy", "hellokitty"]
+    "relatedIp": ["sesame", "snoopy", "hellokitty"],
+    "image": null
   }
 ]
